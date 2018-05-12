@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42959'
     url: http://www.gutenberg.org/2009/agents/42959
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44888#The-Diary-of-a-Freshman
 gutenberg_issued: '2014-02-12'
 gutenberg_type: Text
 identifiers:
